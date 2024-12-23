@@ -47,3 +47,7 @@ header {
     color: var(--text-color);
     font-weight: 700;
 }
+
+span {
+    color: var(--main-color);
+}
