@@ -69,3 +69,32 @@ span {
     color: var(--main-color);
     letter-spacing: 1px;
 }
+
+.h-right {
+    display: flex;
+    align-items: center;
+}
+
+.nav-btn {
+    display: inline-block;
+    padding: 10px 30px;
+    background: transparent;
+    color: var(--main-color);
+    font-size: 15px;
+    font-weight: 600;
+    border: 2px solid var(--main-color);
+    border-radius: 30px;
+    cursor: pointer;
+    transition: all .50s ease;
+}
+
+.nav-btn i {
+    font-size: 15px;
+}
+
+.nav-btn:hover {
+    transform: translateX(10px);
+    background-color: var(--main-color);
+    color: var(--bg-color);
+    border: none;
+}
