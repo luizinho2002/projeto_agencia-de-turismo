@@ -11,3 +11,12 @@
     scroll-behavior: smooth;
     font-family: 'Jost', sans-serif;
 }
+
+:root {
+    --text-color: #fff;
+    --bg-color: #000;
+    --main-color: #FF914D;
+    --h1-font: 5rem;
+    --h2-font: 3rem;
+    --p-font: 1rem;
+}
