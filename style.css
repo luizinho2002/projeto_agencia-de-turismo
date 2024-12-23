@@ -51,3 +51,21 @@ header {
 span {
     color: var(--main-color);
 }
+
+.navbar {
+    display: flex;
+}
+
+.navbar a {
+    color: var(--text-color);
+    font-size: var(--p-font);
+    font-weight: 500;
+    margin: 15px 22px;
+    text-transform: capitalize;
+    transition: all .50s ease;
+}
+
+.navbar a:hover {
+    color: var(--main-color);
+    letter-spacing: 1px;
+}
