@@ -26,3 +26,18 @@ body {
     background: var(--bg-color);
 }
 
+/* SEÇÃO HEADER */
+
+header {
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 100;
+    width: 100%;
+    background: transparent;
+    padding: 27px 17%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    transition: all .50s ease;
+}
