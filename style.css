@@ -98,3 +98,16 @@ span {
     color: var(--bg-color);
     border: none;
 }
+
+#menu-icon {
+    color: var(--text-color);
+    font-size: 30px;
+    margin-left: 20px;
+    cursor: pointer;
+    z-index: 10001;
+    display: none;
+}
+
+section {
+    padding: 70px 17% 60px;
+}
