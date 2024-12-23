@@ -20,3 +20,9 @@
     --h2-font: 3rem;
     --p-font: 1rem;
 }
+
+body {
+    color: var(--text-color);
+    background: var(--bg-color);
+}
+
