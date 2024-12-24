@@ -111,3 +111,18 @@ span {
 section {
     padding: 70px 17% 60px;
 }
+
+/* SEÇÃO HOME  */
+
+
+.home {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(to left, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3)), url('assets/main.jpg');
+    background-size: cover;
+    background-position: bottom center;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
