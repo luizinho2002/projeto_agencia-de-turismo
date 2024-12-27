@@ -238,3 +238,8 @@ header.sticky {
     gap: 15rem;
     align-items: center;
 }
+
+.about-img img {
+   width: 150%;
+   height: auto; 
+}
