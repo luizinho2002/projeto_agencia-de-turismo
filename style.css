@@ -189,3 +189,12 @@ header.sticky {
     font-weight: 600;
     margin-bottom: 20px;
 }
+
+.categories-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, auto));
+    align-items: center;
+    text-align: center;
+    gap: 3rem;
+}
+
