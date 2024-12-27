@@ -177,3 +177,9 @@ header.sticky {
     background: transparent;
     backdrop-filter: blur(35px);
 }
+
+/* SEÇÃO CATEGORIAS */
+
+.categories .home-text {
+    padding: 20px 2% 60px;
+} 
