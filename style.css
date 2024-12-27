@@ -164,3 +164,10 @@ section {
     cursor: pointer;
     transition: all .50s ease;
 }
+
+.btn:hover {
+    transform: translateX(10px);
+    border: 2px solid var(--text-color);
+    color: var(--text-color);
+    background: transparent;
+}
