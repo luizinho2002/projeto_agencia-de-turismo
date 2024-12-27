@@ -214,3 +214,7 @@ header.sticky {
     display: block;
     transition: transform 0.7s;
 }
+
+.row-img img:hover {
+    transform: scale(1.2);
+}
