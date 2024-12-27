@@ -264,3 +264,11 @@ header.sticky {
     line-height: 1.2;
     margin-bottom: 25px;
 }
+
+.about-text p {
+    font-size: var(--p-font);
+    font-weight: 500;
+    line-height: 30px;
+    color: #ffffffab;
+    margin-bottom: 30px;
+}
