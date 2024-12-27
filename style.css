@@ -183,3 +183,9 @@ header.sticky {
 .categories .home-text {
     padding: 20px 2% 60px;
 } 
+
+.categories h1 {
+    font-size: var(--h2-font);
+    font-weight: 600;
+    margin-bottom: 20px;
+}
