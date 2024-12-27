@@ -248,3 +248,12 @@ header.sticky {
     transform: scale(0.9);
     cursor: pointer;
 }
+
+.about-text h5 {
+    font-size: 22px;
+    font-weight: 600;
+    color: var(--main-color);
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    margin-bottom: 20px;
+}
