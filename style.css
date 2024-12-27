@@ -218,3 +218,10 @@ header.sticky {
 .row-img img:hover {
     transform: scale(1.2);
 }
+
+.categories-content h4 {
+    font-size: 17px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.5s ease;
+}
