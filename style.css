@@ -198,3 +198,12 @@ header.sticky {
     gap: 3rem;
 }
 
+.row-img {
+    overflow: hidden;
+    width: 180px;
+    height: 250px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    border-radius: 80px;
+    cursor: pointer;
+}
