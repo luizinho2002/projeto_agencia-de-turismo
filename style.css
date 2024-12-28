@@ -291,3 +291,10 @@ header.sticky {
 .col:hover {
     transform: scale(1.1);
 }
+
+.col h4 {
+    color: var(--main-color);
+    font-size: 30px;
+    margin-top: 10px;
+}
+
