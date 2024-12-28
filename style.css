@@ -378,3 +378,7 @@ header.sticky {
     font-weight: 500;
     margin-top: 20px;
 }
+
+.box .btn {
+    margin-top: 20px;
+}
