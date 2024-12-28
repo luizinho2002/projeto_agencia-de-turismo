@@ -342,3 +342,11 @@ header.sticky {
     border-radius: 20px;
     width: 100px;
 }
+
+.button:hover {
+    transform: translateX(10px);
+    border: 2px solid var(--text-color);
+    color: var(--text-color);
+    background: transparent;
+}
+
