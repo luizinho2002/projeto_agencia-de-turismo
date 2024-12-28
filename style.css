@@ -316,3 +316,11 @@ header.sticky {
     font-weight: 600;
     margin-bottom: 100px;
 }
+
+.destination-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(270px, auto));
+    align-items: center;
+    gap: 3rem;
+    margin-top: 5rem;
+}
