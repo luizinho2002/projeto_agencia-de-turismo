@@ -324,3 +324,11 @@ header.sticky {
     gap: 3rem;
     margin-top: 5rem;
 }
+
+.destination-content .row {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 1rem;
+}
+
