@@ -365,3 +365,10 @@ header.sticky {
     will-change: filter;
     display: block;
 }
+
+.box h6 {
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 5px;
+    color: #979797;
+}
