@@ -311,3 +311,8 @@ header.sticky {
     text-align: center;
 }
 
+.centet-text h2 {
+    font-size: var(--h2-font);
+    font-weight: 600;
+    margin-bottom: 100px;
+}
