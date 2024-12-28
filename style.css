@@ -287,3 +287,7 @@ header.sticky {
     border-radius: 20px;
     text-align: center;
 }
+
+.col:hover {
+    transform: scale(1.1);
+}
