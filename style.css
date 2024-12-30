@@ -388,3 +388,13 @@ header.sticky {
     transform: scale(1.04);
     cursor: pointer;
 }
+
+/* SEÇÃO TOURLIST */
+
+.tourlist {
+   display: grid;
+   grid-template-columns: repeat(2, 1fr);
+   gap: 9rem;
+   align-items: center;
+   padding: 120px 17% 80px; 
+}
