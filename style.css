@@ -398,3 +398,9 @@ header.sticky {
    align-items: center;
    padding: 120px 17% 80px; 
 }
+
+.tourlist-img img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
