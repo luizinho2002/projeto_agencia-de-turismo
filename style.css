@@ -404,3 +404,9 @@ header.sticky {
     height: auto;
     border-radius: 10px;
 }
+
+.tourlist-img img:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+}
