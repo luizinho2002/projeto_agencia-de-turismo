@@ -420,3 +420,11 @@ header.sticky {
     margin-bottom: 20px;
 }
 
+.tourlist-text h2 {
+    font-size: var(--h2-font);
+    font-weight: 600;
+    line-height: 1.2;
+    margin-bottom: 25px;
+}
+
+
