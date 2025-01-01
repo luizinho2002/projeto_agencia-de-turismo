@@ -384,7 +384,6 @@ header.sticky {
 }
 
 .box img:hover {
-    filter: brightness(90%) hue-rotate(50deg);
     transform: scale(1.04);
     cursor: pointer;
 }
@@ -435,3 +434,12 @@ header.sticky {
     margin-bottom: 30px;
 }
 
+/* SEÇÃO ATIVIDADE */
+
+.activity-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(450px, auto));
+    align-items: center;
+    gap: 3rem;
+    margin-top: 5rem;
+}
