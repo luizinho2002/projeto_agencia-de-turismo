@@ -693,3 +693,33 @@ header.sticky {
         left: 0;
     }
 }
+
+@media (max-width: 800px) {
+    .about {
+        grid-template-columns: 1fr;
+    }
+
+    .categories {
+        gap: 3rem;
+    }
+
+    .row-img {
+        width: 120px;
+        height: 200px;
+    }
+
+    .about-img img {
+        width: 100%;
+        height: auto;
+    }
+
+    .tourlist {
+        grid-template-columns: 1fr;
+    }
+
+    .newsletter-content form {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas: 2rem;
+    }
+}
