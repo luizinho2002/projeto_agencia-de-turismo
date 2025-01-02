@@ -479,3 +479,12 @@ header.sticky {
     gap: 2rem;
     align-items: center;
 }
+
+.newsletter-text h2 {
+    font-size: var(--h2-font);
+    font-weight: 600;
+    color: #000;
+    line-height: 1.2;
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
