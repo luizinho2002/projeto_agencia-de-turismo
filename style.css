@@ -722,3 +722,27 @@ header.sticky {
         gap: 2rem;
     }
 }
+
+@media (max-width: 600px) {
+    :root {
+        --h1-font: 3.5rem;
+        --h2-font: 2.1rem;
+    }
+
+    .home {
+        height: 85vh;
+        margin-top: 100px;
+    }
+
+    .newsletter-content {
+        grid-template-columns: 1fr;
+        padding: 20px 10px;
+    }
+
+    .newsletter-content form {
+        display: grid;
+        grid-template-columns: 0.5fr 0.5fr;
+        gap: 0.2rem;
+    }
+
+}
