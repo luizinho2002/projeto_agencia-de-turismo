@@ -583,3 +583,11 @@ header.sticky {
     color: var(--bg-color);
     transform: translateX(-4px);
 }
+
+.copyright p {
+    text-align: center;
+    font-size: 15px;
+    padding: 20px;
+    font-size: 15px;
+    color: #979797;
+}
