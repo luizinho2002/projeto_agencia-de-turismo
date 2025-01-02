@@ -529,3 +529,11 @@ header.sticky {
     background: transparent;
 }
 
+/* SEÇÃO FOOTER */
+
+.footer {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, auto));
+    gap: 2rem;
+}
+
