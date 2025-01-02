@@ -746,3 +746,17 @@ header.sticky {
     }
 
 }
+
+@media (max-width: 400px) {
+    header {
+        padding: 12px 3%;
+    }
+
+    header.sticky {
+        padding: 7px 3%;
+    }
+
+    section {
+        padding: 60px 3% 50px;
+    }
+}
