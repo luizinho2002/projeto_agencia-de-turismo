@@ -522,3 +522,10 @@ header.sticky {
     border-radius: 10px;
     width: 60px;
 }
+
+.btn1:hover {
+    border: 2px solid var(--text-color);
+    color: var(--text-color);
+    background: transparent;
+}
+
