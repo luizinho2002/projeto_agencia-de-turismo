@@ -558,3 +558,8 @@ header.sticky {
     margin-bottom: 0.8rem;
     transition: all .5s ease;
 }
+
+.footer-box a:hover {
+    transform: translateX(-5px);
+    color: var(--text-color);
+}
