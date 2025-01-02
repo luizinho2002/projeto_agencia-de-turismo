@@ -546,4 +546,9 @@ header.sticky {
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 15px;
-} 
+}
+
+.footer-box p {
+    font-size: 15px;
+    margin-bottom: 40px;
+}
