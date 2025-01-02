@@ -488,3 +488,10 @@ header.sticky {
     margin-bottom: 15px;
     margin-top: 20px;
 }
+
+.newsletter-text p {
+    font-size: var(--p-font);
+    margin-bottom: 20px;
+    font-weight: 500;
+    color: #333;
+}
