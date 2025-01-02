@@ -514,3 +514,11 @@ header.sticky {
     font-size: 40px;
 }
 
+.btn1 {
+    background: var(--bg-color);
+    color: var(--text-color);
+    text-align: center;
+    padding: 8px;
+    border-radius: 10px;
+    width: 60px;
+}
