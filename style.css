@@ -467,3 +467,15 @@ header.sticky {
     text-transform: uppercase;
     font-weight: 500;
 }
+
+/* SEÇÃO NEWSLETTER */
+
+.newsletter-content {
+    background: var(--main-color);
+    padding: 50px;
+    border-radius: 30px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+    align-items: center;
+}
