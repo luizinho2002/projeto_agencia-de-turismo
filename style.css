@@ -495,3 +495,9 @@ header.sticky {
     font-weight: 500;
     color: #333;
 }
+
+.newsletter-content form {
+    display: grid;
+    grid-template-columns: 1fr 0.4fr;
+    gap: 1rem;
+}
