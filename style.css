@@ -537,3 +537,7 @@ header.sticky {
     gap: 2rem;
 }
 
+.footer-box {
+    display: flex;
+    flex-direction: column;
+}
