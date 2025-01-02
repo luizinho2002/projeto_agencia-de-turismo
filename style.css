@@ -591,3 +591,11 @@ header.sticky {
     font-size: 15px;
     color: #979797;
 }
+
+/* DESIGN RESPONSIVO */
+
+@media (max-width: 1700px) {
+    header {
+        padding: 18px 8%;
+    }
+}
