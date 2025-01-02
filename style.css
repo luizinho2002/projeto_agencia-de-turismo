@@ -509,3 +509,8 @@ header.sticky {
     color: var(--text-color);
     border-radius: 5px;
 }
+
+.newsletter-content i {
+    font-size: 40px;
+}
+
