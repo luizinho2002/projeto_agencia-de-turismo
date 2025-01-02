@@ -577,3 +577,9 @@ header.sticky {
     margin-right: 8px;
     transition: transform .6s;
 }
+
+.social a:hover {
+    background: var(--main-color);
+    color: var(--bg-color);
+    transform: translateX(-4px);
+}
