@@ -694,3 +694,31 @@ header.sticky {
     }
 }
 
+@media (max-width: 800px) {
+    .about {
+        grid-template-columns: 1fr;
+    }
+
+    .categories-content {
+        gap: 3rem;
+    }
+
+    .row-img {
+        width: 120px;
+        height: auto;
+    }
+
+    .tourlist {
+        grid-template-columns: 1fr;
+    }
+
+    .newsletter-content {
+        grid-template-columns: 1fr;
+    }
+
+    .newsletter-content form {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 2rem;
+    }
+}
