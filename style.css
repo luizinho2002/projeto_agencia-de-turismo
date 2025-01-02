@@ -552,3 +552,9 @@ header.sticky {
     font-size: 15px;
     margin-bottom: 40px;
 }
+
+.footer-box a {
+    color: #979797;
+    margin-bottom: 0.8rem;
+    transition: all .5s ease;
+}
